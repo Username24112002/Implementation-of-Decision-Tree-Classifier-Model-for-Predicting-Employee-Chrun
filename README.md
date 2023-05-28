@@ -21,8 +21,8 @@ employee churn.
 ## Program:
 ```txt
 Program to implement the Decision Tree Classifier Model for Predicting Employee Churn.
-Developed by: Gunanithi S
-RegisterNumber:  212220220015
+Developed by: Suriya Prakash B
+RegisterNumber:  212220220048
 ```
 ```py3
 import pandas as pd

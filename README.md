@@ -77,21 +77,13 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 ```
 
 ## Output:
-1.data.head():<br>
 ![image](https://github.com/Yugendaran/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/128135616/b1162149-bbea-43a7-96a9-354fd108a151)<br>
-2.data.info():<br>
 ![image](https://github.com/Yugendaran/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/128135616/bfe60847-ed9a-487c-a700-b43dca8659a5)<br>
-3.isnull() and sum():<br>
 ![image](https://github.com/Yugendaran/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/128135616/7f03738f-ea1f-4338-a98b-1ef247f52708)<br>
-4.data value count():<br>
 ![image](https://github.com/Yugendaran/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/128135616/a4e857d7-6fa3-4dc1-b615-ec4f8433c511)<br>
-5.data.head() for salary():<br>
 ![image](https://github.com/Yugendaran/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/128135616/ff85899e-0a75-4138-9b2a-d9abcdf20138)<br>
-6.X.head():<br>
 ![image](https://github.com/Yugendaran/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/128135616/6bf35c61-a89f-4af3-bdaf-840d8b320af5)<br>
-7.Accuracy value:<br>
 ![image](https://github.com/Yugendaran/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/128135616/3010e840-d901-478a-ba93-82eba77e27e9)<br>
-8.data prediction:<br>
 ![image](https://github.com/Yugendaran/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/128135616/ebb42f60-6046-426c-9759-e629b2a68b2c)<br>
 
 ## Result:
